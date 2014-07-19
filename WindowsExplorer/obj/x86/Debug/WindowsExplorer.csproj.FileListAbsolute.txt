@@ -1,0 +1,9 @@
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\obj\x86\Debug\WindowsExplorer.Form1.resources
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\obj\x86\Debug\WindowsExplorer.Properties.Resources.resources
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.exe
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\bin\Debug\WindowsExplorer.pdb
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\obj\x86\Debug\WindowsExplorer.exe
+c:\users\gladysvm\documents\visual studio 2010\Projects\WindowsExplorer\WindowsExplorer\obj\x86\Debug\WindowsExplorer.pdb
